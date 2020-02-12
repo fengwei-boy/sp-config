@@ -18,9 +18,3 @@ spring:
   cloud:
     config:
       override-none: true
-spring:
-  application:
-    name: item-service
-  cloud:
-    config:
-      override-none: true
